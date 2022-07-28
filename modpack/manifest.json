@@ -1,0 +1,392 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2859",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "Me",
+  "name": "Testpack",
+  "files": [
+    {
+      "projectID": 221857,
+      "fileID": 2904825,
+      "required": true,
+      "__meta": {
+        "name": "Pam's HarvestCraft"
+      }
+    },
+    {
+      "projectID": 224602,
+      "fileID": 3293318,
+      "required": true,
+      "__meta": {
+        "name": "Ancient Warfare 2",
+        "dependencies": [242818]
+      }
+    },
+    {
+      "projectID": 228525,
+      "fileID": 2836960,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 228948,
+      "fileID": 2891787,
+      "required": true,
+      "__meta": {
+        "name": "Grimoire of Gaia"
+      }
+    },
+    {
+      "projectID": 233029,
+      "fileID": 2890062,
+      "required": true,
+      "__meta": {
+        "name": "Vampirism - Become a vampire!"
+      }
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3043174,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 239197,
+      "fileID": 3888587,
+      "required": true,
+      "__meta": {
+        "name": "CraftTweaker"
+      }
+    },
+    {
+      "projectID": 241319,
+      "fileID": 2761319,
+      "required": true,
+      "__meta": {
+        "name": "Reliquary Reincarnations"
+      }
+    },
+    {
+      "projectID": 242818,
+      "fileID": 2779848,
+      "required": true,
+      "__meta": {
+        "name": "CodeChicken Lib 1.8.+",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 242830,
+      "fileID": 2987034,
+      "required": true,
+      "__meta": {
+        "name": "Exotic Birds"
+      }
+    },
+    {
+      "projectID": 243121,
+      "fileID": 2924091,
+      "required": true,
+      "__meta": {
+        "name": "Quark",
+        "dependencies": [250363]
+      }
+    },
+    {
+      "projectID": 243298,
+      "fileID": 3116493,
+      "required": true,
+      "__meta": {
+        "name": "LLibrary",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 245506,
+      "fileID": 2932783,
+      "required": true,
+      "__meta": {
+        "name": "MineColonies"
+      }
+    },
+    {
+      "projectID": 245755,
+      "fileID": 2859589,
+      "required": true,
+      "__meta": {
+        "name": "Waystones"
+      }
+    },
+    {
+      "projectID": 248453,
+      "fileID": 2785465,
+      "required": true,
+      "__meta": {
+        "name": "Shadowfacts' Forgelin",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 250363,
+      "fileID": 2746011,
+      "required": true,
+      "__meta": {
+        "name": "AutoRegLib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 250498,
+      "fileID": 3048685,
+      "required": true,
+      "__meta": {
+        "name": "Mowzie's Mobs",
+        "dependencies": [243298]
+      }
+    },
+    {
+      "projectID": 252354,
+      "fileID": 2464501,
+      "required": true,
+      "__meta": {
+        "name": "Open Glider"
+      }
+    },
+    {
+      "projectID": 256141,
+      "fileID": 3107974,
+      "required": true,
+      "__meta": {
+        "name": "Rustic"
+      }
+    },
+    {
+      "projectID": 265642,
+      "fileID": 3864785,
+      "required": true,
+      "__meta": {
+        "name": "Electroblob's Wizardry"
+      }
+    },
+    {
+      "projectID": 273744,
+      "fileID": 3827738,
+      "required": true,
+      "__meta": {
+        "name": "U Team Core",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 273771,
+      "fileID": 3517236,
+      "required": true,
+      "__meta": {
+        "name": "AstikorCarts [Horse Carts]"
+      }
+    },
+    {
+      "projectID": 274338,
+      "fileID": 3104696,
+      "required": true,
+      "__meta": {
+        "name": "Useful Backpacks",
+        "dependencies": [273744]
+      }
+    },
+    {
+      "projectID": 276951,
+      "fileID": 2880613,
+      "required": true,
+      "__meta": {
+        "name": "Comforts (Forge)"
+      }
+    },
+    {
+      "projectID": 282415,
+      "fileID": 2658551,
+      "required": true,
+      "__meta": {
+        "name": "Primitive Mobs",
+        "dependencies": [309136]
+      }
+    },
+    {
+      "projectID": 283644,
+      "fileID": 2694382,
+      "required": true,
+      "__meta": {
+        "name": "Placebo",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 288885,
+      "fileID": 2838777,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench",
+        "dependencies": [283644]
+      }
+    },
+    {
+      "projectID": 291608,
+      "fileID": 2552903,
+      "required": true,
+      "__meta": {
+        "name": "Shipwrecks!"
+      }
+    },
+    {
+      "projectID": 292547,
+      "fileID": 3227927,
+      "required": true,
+      "__meta": {
+        "name": "Zoo & Wild Animals Rebuilt : ZAWA",
+        "dependencies": [302957]
+      }
+    },
+    {
+      "projectID": 297438,
+      "fileID": 3638934,
+      "required": true,
+      "__meta": {
+        "name": "Dungeon Mobs Reborn"
+      }
+    },
+    {
+      "projectID": 299540,
+      "fileID": 2706111,
+      "required": true,
+      "__meta": {
+        "name": "FastFurnace"
+      }
+    },
+    {
+      "projectID": 302957,
+      "fileID": 2989715,
+      "required": true,
+      "__meta": {
+        "name": "Bookworm",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 304002,
+      "fileID": 2908529,
+      "required": true,
+      "__meta": {
+        "name": "Pirates"
+      }
+    },
+    {
+      "projectID": 304393,
+      "fileID": 2654937,
+      "required": true,
+      "__meta": {
+        "name": "Harvester's Night"
+      }
+    },
+    {
+      "projectID": 304879,
+      "fileID": 2872906,
+      "required": true,
+      "__meta": {
+        "name": "Eerie Entities",
+        "dependencies": [228525]
+      }
+    },
+    {
+      "projectID": 309136,
+      "fileID": 2666556,
+      "required": true,
+      "__meta": {
+        "name": "Multi Mob Library",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 310059,
+      "fileID": 3842790,
+      "required": true,
+      "__meta": {
+        "name": "Future MC",
+        "dependencies": [248453]
+      }
+    },
+    {
+      "projectID": 310287,
+      "fileID": 2656993,
+      "required": true,
+      "__meta": {
+        "name": "The Summoner",
+        "dependencies": [309136]
+      }
+    },
+    {
+      "projectID": 310914,
+      "fileID": 3029335,
+      "required": true,
+      "__meta": {
+        "name": "GemsPlusPlus"
+      }
+    },
+    {
+      "projectID": 318872,
+      "fileID": 3146596,
+      "required": true,
+      "__meta": {
+        "name": "Charm"
+      }
+    },
+    {
+      "projectID": 321139,
+      "fileID": 3773827,
+      "required": true,
+      "__meta": {
+        "name": "Fish's Undead Rising"
+      }
+    },
+    {
+      "projectID": 383918,
+      "fileID": 2958807,
+      "required": true,
+      "__meta": {
+        "name": "Grimoire of Gaia: Redux",
+        "dependencies": [228948]
+      }
+    },
+    {
+      "projectID": 457668,
+      "fileID": 3809927,
+      "required": true,
+      "__meta": {
+        "name": "Ice and Fire: RotN Edition",
+        "dependencies": [243298]
+      }
+    },
+    {
+      "projectID": 541068,
+      "fileID": 3749881,
+      "required": true,
+      "__meta": {
+        "name": "Better Animals Plus Plus"
+      }
+    }
+  ]
+}

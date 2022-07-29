@@ -43,6 +43,22 @@
       }
     },
     {
+      "projectID": 76544,
+      "fileID": 2497541,
+      "required": true,
+      "__meta": {
+        "name": "Climate Control/Geographicraft"
+      }
+    },
+    {
+      "projectID": 220318,
+      "fileID": 3558882,
+      "required": true,
+      "__meta": {
+        "name": "Biomes O' Plenty"
+      }
+    },
+    {
       "projectID": 221857,
       "fileID": 2904825,
       "required": true,
@@ -57,6 +73,17 @@
       "__meta": {
         "name": "Aroma1997Core",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 223908,
+      "fileID": 3168678,
+      "required": true,
+      "__meta": {
+        "name": "Fossils and Archeology Revival",
+        "dependencies": [
+          243298
+        ]
       }
     },
     {
@@ -116,6 +143,26 @@
       }
     },
     {
+      "projectID": 229260,
+      "fileID": 2628698,
+      "required": true,
+      "__meta": {
+        "name": "Mo' Creatures",
+        "dependencies": [
+          229261
+        ]
+      }
+    },
+    {
+      "projectID": 229261,
+      "fileID": 2859433,
+      "required": true,
+      "__meta": {
+        "name": "Custom Mob Spawner",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 229876,
       "fileID": 2483393,
       "required": true,
@@ -146,6 +193,14 @@
       "__meta": {
         "name": "Extra Golems",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 237989,
+      "fileID": 2782568,
+      "required": true,
+      "__meta": {
+        "name": "Realistic Terrain Generation"
       }
     },
     {
@@ -276,6 +331,14 @@
       }
     },
     {
+      "projectID": 248994,
+      "fileID": 2560552,
+      "required": true,
+      "__meta": {
+        "name": "CoralReef"
+      }
+    },
+    {
       "projectID": 250363,
       "fileID": 2746011,
       "required": true,
@@ -344,6 +407,14 @@
       "required": true,
       "__meta": {
         "name": "Electroblob's Wizardry"
+      }
+    },
+    {
+      "projectID": 267769,
+      "fileID": 2613657,
+      "required": true,
+      "__meta": {
+        "name": "Traverse Reforged"
       }
     },
     {
@@ -428,6 +499,26 @@
       "required": true,
       "__meta": {
         "name": "Foam​Fix"
+      }
+    },
+    {
+      "projectID": 280003,
+      "fileID": 2852059,
+      "required": true,
+      "__meta": {
+        "name": "Spooky Biomes",
+        "dependencies": [
+          280547
+        ]
+      }
+    },
+    {
+      "projectID": 280547,
+      "fileID": 2885696,
+      "required": true,
+      "__meta": {
+        "name": "Kiri's Lib",
+        "explicit": false
       }
     },
     {
@@ -584,6 +675,14 @@
       }
     },
     {
+      "projectID": 304881,
+      "fileID": 2727758,
+      "required": true,
+      "__meta": {
+        "name": "The Midnight"
+      }
+    },
+    {
       "projectID": 305460,
       "fileID": 2631908,
       "required": true,
@@ -639,11 +738,27 @@
       }
     },
     {
+      "projectID": 314916,
+      "fileID": 2676658,
+      "required": true,
+      "__meta": {
+        "name": "Auxiliary Biomes"
+      }
+    },
+    {
       "projectID": 316124,
       "fileID": 2681439,
       "required": true,
       "__meta": {
         "name": "The Narrow Gate"
+      }
+    },
+    {
+      "projectID": 317518,
+      "fileID": 2963871,
+      "required": true,
+      "__meta": {
+        "name": "Explorercraft - First 1.17.1 version released! "
       }
     },
     {
@@ -668,6 +783,14 @@
       "required": true,
       "__meta": {
         "name": "Fish's Undead Rising"
+      }
+    },
+    {
+      "projectID": 321142,
+      "fileID": 3211899,
+      "required": true,
+      "__meta": {
+        "name": "Environs++"
       }
     },
     {
@@ -743,6 +866,14 @@
       }
     },
     {
+      "projectID": 452033,
+      "fileID": 3481673,
+      "required": true,
+      "__meta": {
+        "name": "Apple Trees Revived [Forge & Fabric][1.12.x - 1.18.2]"
+      }
+    },
+    {
       "projectID": 457668,
       "fileID": 3809927,
       "required": true,
@@ -795,6 +926,22 @@
       "required": true,
       "__meta": {
         "name": "Better Animals Plus Plus"
+      }
+    },
+    {
+      "projectID": 543131,
+      "fileID": 3650315,
+      "required": true,
+      "__meta": {
+        "name": "Better WyvernLair "
+      }
+    },
+    {
+      "projectID": 551173,
+      "fileID": 3764664,
+      "required": true,
+      "__meta": {
+        "name": "Better OgreLair"
       }
     }
   ]

@@ -16,6 +16,33 @@
   "name": "Testpack",
   "files": [
     {
+      "projectID": 59413,
+      "fileID": 2724705,
+      "required": true,
+      "__meta": {
+        "name": "Enchanting Plus",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 60333,
+      "fileID": 2984370,
+      "required": true,
+      "__meta": {
+        "name": "Lost Books"
+      }
+    },
+    {
+      "projectID": 74246,
+      "fileID": 3636153,
+      "required": true,
+      "__meta": {
+        "name": "Doomlike Dungeons"
+      }
+    },
+    {
       "projectID": 221857,
       "fileID": 2904825,
       "required": true,
@@ -24,12 +51,51 @@
       }
     },
     {
+      "projectID": 223735,
+      "fileID": 2914062,
+      "required": true,
+      "__meta": {
+        "name": "Aroma1997Core",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 224472,
+      "fileID": 2969118,
+      "required": true,
+      "__meta": {
+        "name": "AppleCore",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 224602,
       "fileID": 3293318,
       "required": true,
       "__meta": {
         "name": "Ancient Warfare 2",
-        "dependencies": [242818]
+        "dependencies": [
+          242818
+        ]
+      }
+    },
+    {
+      "projectID": 224713,
+      "fileID": 2707590,
+      "required": true,
+      "__meta": {
+        "name": "Bow Infinity Fix (Forge/Fabric)"
+      }
+    },
+    {
+      "projectID": 225658,
+      "fileID": 3070947,
+      "required": true,
+      "__meta": {
+        "name": "AromaBackup",
+        "dependencies": [
+          223735
+        ]
       }
     },
     {
@@ -50,6 +116,22 @@
       }
     },
     {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "required": true,
+      "__meta": {
+        "name": "BetterFps"
+      }
+    },
+    {
+      "projectID": 231275,
+      "fileID": 2801170,
+      "required": true,
+      "__meta": {
+        "name": "Ding"
+      }
+    },
+    {
       "projectID": 233029,
       "fileID": 2890062,
       "required": true,
@@ -58,11 +140,28 @@
       }
     },
     {
+      "projectID": 233300,
+      "fileID": 2887694,
+      "required": true,
+      "__meta": {
+        "name": "Extra Golems",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 238222,
       "fileID": 3043174,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 238891,
+      "fileID": 3497269,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Surroundings"
       }
     },
     {
@@ -79,6 +178,14 @@
       "required": true,
       "__meta": {
         "name": "Reliquary Reincarnations"
+      }
+    },
+    {
+      "projectID": 242500,
+      "fileID": 3008088,
+      "required": true,
+      "__meta": {
+        "name": "Dungeon Tactics"
       }
     },
     {
@@ -99,12 +206,23 @@
       }
     },
     {
+      "projectID": 242872,
+      "fileID": 2905184,
+      "required": true,
+      "__meta": {
+        "name": "Potion Core",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 243121,
       "fileID": 2924091,
       "required": true,
       "__meta": {
         "name": "Quark",
-        "dependencies": [250363]
+        "dependencies": [
+          250363
+        ]
       }
     },
     {
@@ -114,6 +232,14 @@
       "__meta": {
         "name": "LLibrary",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 243707,
+      "fileID": 3848910,
+      "required": true,
+      "__meta": {
+        "name": "Corail Tombstone"
       }
     },
     {
@@ -130,6 +256,14 @@
       "required": true,
       "__meta": {
         "name": "Waystones"
+      }
+    },
+    {
+      "projectID": 246795,
+      "fileID": 2909295,
+      "required": true,
+      "__meta": {
+        "name": "ViesCraft Machines"
       }
     },
     {
@@ -156,7 +290,9 @@
       "required": true,
       "__meta": {
         "name": "Mowzie's Mobs",
-        "dependencies": [243298]
+        "dependencies": [
+          243298
+        ]
       }
     },
     {
@@ -168,6 +304,14 @@
       }
     },
     {
+      "projectID": 254268,
+      "fileID": 3529742,
+      "required": true,
+      "__meta": {
+        "name": "Torchmaster"
+      }
+    },
+    {
       "projectID": 256141,
       "fileID": 3107974,
       "required": true,
@@ -176,11 +320,51 @@
       }
     },
     {
+      "projectID": 259230,
+      "fileID": 3852309,
+      "required": true,
+      "__meta": {
+        "name": "Village Names"
+      }
+    },
+    {
+      "projectID": 264756,
+      "fileID": 2732994,
+      "required": true,
+      "__meta": {
+        "name": "Quality Tools",
+        "dependencies": [
+          242872
+        ]
+      }
+    },
+    {
       "projectID": 265642,
       "fileID": 3864785,
       "required": true,
       "__meta": {
         "name": "Electroblob's Wizardry"
+      }
+    },
+    {
+      "projectID": 272450,
+      "fileID": 3748293,
+      "required": true,
+      "__meta": {
+        "name": "GottschCore",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 273362,
+      "fileID": 3879957,
+      "required": true,
+      "__meta": {
+        "name": "Dungeons2",
+        "dependencies": [
+          272450,
+          272450
+        ]
       }
     },
     {
@@ -206,7 +390,9 @@
       "required": true,
       "__meta": {
         "name": "Useful Backpacks",
-        "dependencies": [273744]
+        "dependencies": [
+          273744
+        ]
       }
     },
     {
@@ -218,12 +404,49 @@
       }
     },
     {
+      "projectID": 277616,
+      "fileID": 2959847,
+      "required": true,
+      "__meta": {
+        "name": "Spice of Life: Carrot Edition",
+        "dependencies": [
+          224472
+        ]
+      }
+    },
+    {
+      "projectID": 278141,
+      "fileID": 3634012,
+      "required": true,
+      "__meta": {
+        "name": "Spartan Weaponry"
+      }
+    },
+    {
+      "projectID": 278494,
+      "fileID": 3327893,
+      "required": true,
+      "__meta": {
+        "name": "Foam​Fix"
+      }
+    },
+    {
       "projectID": 282415,
       "fileID": 2658551,
       "required": true,
       "__meta": {
         "name": "Primitive Mobs",
-        "dependencies": [309136]
+        "dependencies": [
+          309136
+        ]
+      }
+    },
+    {
+      "projectID": 283344,
+      "fileID": 2518068,
+      "required": true,
+      "__meta": {
+        "name": "TexFix"
       }
     },
     {
@@ -236,12 +459,49 @@
       }
     },
     {
+      "projectID": 286230,
+      "fileID": 2572528,
+      "required": true,
+      "__meta": {
+        "name": "Unloader"
+      }
+    },
+    {
+      "projectID": 286811,
+      "fileID": 2771671,
+      "required": true,
+      "__meta": {
+        "name": "Amidst for Forge"
+      }
+    },
+    {
       "projectID": 288885,
       "fileID": 2838777,
       "required": true,
       "__meta": {
         "name": "FastWorkbench",
-        "dependencies": [283644]
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
+      "projectID": 289760,
+      "fileID": 3832097,
+      "required": true,
+      "__meta": {
+        "name": "Treasure2!",
+        "dependencies": [
+          272450
+        ]
+      }
+    },
+    {
+      "projectID": 290659,
+      "fileID": 3067807,
+      "required": true,
+      "__meta": {
+        "name": "Pretty Beaches"
       }
     },
     {
@@ -258,7 +518,17 @@
       "required": true,
       "__meta": {
         "name": "Zoo & Wild Animals Rebuilt : ZAWA",
-        "dependencies": [302957]
+        "dependencies": [
+          302957
+        ]
+      }
+    },
+    {
+      "projectID": 292785,
+      "fileID": 2915154,
+      "required": true,
+      "__meta": {
+        "name": "VanillaFix"
       }
     },
     {
@@ -308,7 +578,25 @@
       "required": true,
       "__meta": {
         "name": "Eerie Entities",
-        "dependencies": [228525]
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 305460,
+      "fileID": 2631908,
+      "required": true,
+      "__meta": {
+        "name": "TidyChunk"
+      }
+    },
+    {
+      "projectID": 307806,
+      "fileID": 2820815,
+      "required": true,
+      "__meta": {
+        "name": "OreLib"
       }
     },
     {
@@ -326,7 +614,9 @@
       "required": true,
       "__meta": {
         "name": "Future MC",
-        "dependencies": [248453]
+        "dependencies": [
+          248453
+        ]
       }
     },
     {
@@ -335,7 +625,9 @@
       "required": true,
       "__meta": {
         "name": "The Summoner",
-        "dependencies": [309136]
+        "dependencies": [
+          309136
+        ]
       }
     },
     {
@@ -344,6 +636,22 @@
       "required": true,
       "__meta": {
         "name": "GemsPlusPlus"
+      }
+    },
+    {
+      "projectID": 316124,
+      "fileID": 2681439,
+      "required": true,
+      "__meta": {
+        "name": "The Narrow Gate"
+      }
+    },
+    {
+      "projectID": 318255,
+      "fileID": 2919497,
+      "required": true,
+      "__meta": {
+        "name": "Phosphor (Forge)"
       }
     },
     {
@@ -363,12 +671,75 @@
       }
     },
     {
+      "projectID": 327277,
+      "fileID": 3593839,
+      "required": true,
+      "__meta": {
+        "name": "[Backport] 1.13 Bubble Columns for 1.12"
+      }
+    },
+    {
+      "projectID": 358124,
+      "fileID": 3754846,
+      "required": true,
+      "__meta": {
+        "name": "Ancient Spellcraft",
+        "dependencies": [
+          265642
+        ]
+      }
+    },
+    {
+      "projectID": 376040,
+      "fileID": 2943808,
+      "required": true,
+      "__meta": {
+        "name": "Vanilla Anvil Repair"
+      }
+    },
+    {
       "projectID": 383918,
       "fileID": 2958807,
       "required": true,
       "__meta": {
         "name": "Grimoire of Gaia: Redux",
-        "dependencies": [228948]
+        "dependencies": [
+          228948
+        ]
+      }
+    },
+    {
+      "projectID": 385654,
+      "fileID": 3218329,
+      "required": true,
+      "__meta": {
+        "name": "Backported Flora",
+        "dependencies": [
+          248453
+        ]
+      }
+    },
+    {
+      "projectID": 417871,
+      "fileID": 3364977,
+      "required": true,
+      "__meta": {
+        "name": "Wizardry - Fates",
+        "dependencies": [
+          265642
+        ]
+      }
+    },
+    {
+      "projectID": 422363,
+      "fileID": 3408077,
+      "required": true,
+      "__meta": {
+        "name": "Wizardry Golems",
+        "dependencies": [
+          265642,
+          233300
+        ]
       }
     },
     {
@@ -377,7 +748,45 @@
       "required": true,
       "__meta": {
         "name": "Ice and Fire: RotN Edition",
-        "dependencies": [243298]
+        "dependencies": [
+          243298
+        ]
+      }
+    },
+    {
+      "projectID": 509041,
+      "fileID": 3540109,
+      "required": true,
+      "__meta": {
+        "name": "Epic Knights: Shields, Armor and Weapons"
+      }
+    },
+    {
+      "projectID": 514829,
+      "fileID": 3423641,
+      "required": true,
+      "__meta": {
+        "name": "Better Displays"
+      }
+    },
+    {
+      "projectID": 522529,
+      "fileID": 3736077,
+      "required": true,
+      "__meta": {
+        "name": "Mo' Spells (Electroblob's Wizardry)",
+        "dependencies": [
+          250498,
+          265642
+        ]
+      }
+    },
+    {
+      "projectID": 541058,
+      "fileID": 3846527,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Combat (Better Combat Rebirth)"
       }
     },
     {

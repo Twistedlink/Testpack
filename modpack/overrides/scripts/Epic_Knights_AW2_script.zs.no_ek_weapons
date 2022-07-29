@@ -1,0 +1,10 @@
+import crafttweaker.item.IItemStack;
+//For 1.12 CraftTweaker + JEI ONLY!
+val removedGear = ["stylet", "katzbalger", "pike", "ranseur", "ahlspiess", "lance", "estoc", "claymore", "zweihander", "axe", "halberd", "mace", "hammer", "morgenstern", "guisarme", "shield", "target", "buckler", "tartsche", "pavese", "sword", "rondache", "hilt", "pole", "steel_chain", "blacksmith_hammer", "barbedclub", "pitchfork"] as string[];
+for i in loadedMods["magistuarmory"].items {
+for possible in removedGear { 
+    if i.name.indexOf(possible) > -1 {
+      mods.jei.JEI.removeAndHide(i);  
+   	 	}
+	}
+}

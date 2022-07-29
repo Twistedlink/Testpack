@@ -1,0 +1,1654 @@
+[
+  {
+    "comment": "This file contains custom reforging materials. By default, you can reforge
+                a tool with its repair item (like iron ingots for an iron sword), but some
+                items don't have a repair item, like bows. This adds items to reforge those.
+                It can also add an item for 'any', which will work for any item that can't be
+                reforged otherwise. For more info about how to add materials, visit:
+                https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
+    "tool": "any",
+    "material": {
+        "item": "minecraft:nether_star"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:bow"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:fishing_rod"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:wooden_hoe"
+    },
+    "material": {
+        "ore_dict": "plankWood"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:stone_hoe"
+    },
+    "material": {
+        "ore_dict": "cobblestone"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:iron_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:shears"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:iron_horse_armor"
+    },
+    "material": {
+        "ore_dict": "ingotIron"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:golden_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:golden_horse_armor"
+    },
+    "material": {
+        "ore_dict": "ingotGold"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:diamond_hoe"
+    },
+    "material": {
+        "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:diamond_horse_armor"
+    },
+    "material": {
+        "ore_dict": "gemDiamond"
+    }
+  },
+  {
+    "tool": {
+        "item": "qualitytools:emerald_ring"
+    },
+    "material": {
+        "ore_dict": "gemEmerald"
+    }
+  },
+  {
+    "tool": {
+        "item": "qualitytools:emerald_amulet"
+    },
+    "material": {
+        "ore_dict": "gemEmerald"
+    }
+  },
+ {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_helmet"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_chestplate"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_leggings"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_metal_boots"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_sword"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_shovel"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_pickaxe"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_axe"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:silver_hoe"
+    },
+    "material": {
+        "ore_dict": "ingotSilver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_red_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_red"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_red_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_red"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_red_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_red"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_red_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_red"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_bronze_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_bronze"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_bronze_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_bronze"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_bronze_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_bronze"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_bronze_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_bronze"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_green_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_green"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_green_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_green"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_green_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_green"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_green_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_green"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_gray_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_gray"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_gray_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_gray"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_gray_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_gray"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_gray_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_gray"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_blue_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_blue"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_blue_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_blue"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_blue_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_blue"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_blue_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_blue"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_white_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_white"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_white_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_white"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_white_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_white"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_white_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_white"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_sapphire_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_sapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_sapphire_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_sapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_sapphire_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_sapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_sapphire_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_sapphire"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_helmet"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_silver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_chestplate"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_silver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_leggings"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_silver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:armor_silver_boots"
+    },
+    "material": {
+        "item": "iceandfire:dragonscales_silver"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_sword"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_shovel"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_pickaxe"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_axe"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_hoe"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_sword_fire"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_sword_ice"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+  {
+    "tool": {
+        "item": "iceandfire:dragonbone_bow"
+    },
+    "material": {
+        "item": "iceandfire:dragonbone"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bascinet"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:chainmail_helmet"
+    },
+    "material": {
+        "item": "magistuarmory:steel_chainmail"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:chainmail_chestplate"
+    },
+    "material": {
+        "item": "magistuarmory:steel_chainmail"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:chainmail_leggings"
+    },
+    "material": {
+        "item": "magistuarmory:steel_chainmail"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:chainmail_boots"
+    },
+    "material": {
+        "item": "magistuarmory:steel_chainmail"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:brigandine_chestplate"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:cuirassier_boots"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:shishak"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:halfarmor_chestplate"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:xivcenturyknight_leggings"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:xivcenturyknight_boots"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:kettlehat"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:platemail_chestplate"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:platemail_leggings"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:platemail_boots"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:ceremonialarmet"
+    },
+    "material": {
+        "item": "minecraft:gold_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:ceremonial_chestplate"
+    },
+    "material": {
+        "item": "minecraft:gold_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:ceremonial_boots"
+    },
+    "material": {
+        "item": "minecraft:gold_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:crusader_chestplate"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:crusader_boots"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:barbute"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:cuirassier_chestplate"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:wingedhussar_chestplate"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:xivcenturyknight_chestplate"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:cuirassier_helmet"
+    },
+    "material": {
+        "item": "minecraft:iron_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:sallet"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:knight_chestplate"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:knight_leggings"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:knight_boots"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:maximilian_helmet"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:maximilian_chestplate"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:maximilian_leggings"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:maximilian_boots"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:armet"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:gothic_chestplate"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bascinet"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:greathelm"
+    },
+    "material": {
+        "item": "magistuarmory:steel_plate"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:jousting_chestplate"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:jousting_leggings"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:jousting_boots"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:gothic_leggings"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:stechhelm"
+    },
+    "material": {
+        "item": "minecraft:diamond"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_stylet"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_shortsword"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_katzbalger"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_pike"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_ranseur"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_ahlspiess"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_chivalrylance"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_bastardsword"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_estoc"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_claymore"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_zweihander"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_flamebladedsword"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_lochaberaxe"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_concavehalberd"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_heavymace"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_heavywarhammer"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_lucernhammer"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_morgenstern"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_chainmorgenstern"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:steel_guisarme"
+    },
+    "material": {
+        "item": "ancientwarfare:steel_ingot"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_stylet"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_shortsword"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_katzbalger"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_pike"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_ranseur"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_ahlspiess"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_chivalrylance"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_bastardsword"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_estoc"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_claymore"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_zweihander"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_flamebladedsword"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_lochaberaxe"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_concavehalberd"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_heavymace"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_heavywarhammer"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_lucernhammer"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_morgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_chainmorgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:copper_guisarme"
+    },
+    "material": {
+        "item": "embers:ingot_copper"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_stylet"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_shortsword"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_katzbalger"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_pike"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_ranseur"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_ahlspiess"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_chivalrylance"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_bastardsword"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_estoc"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_claymore"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_zweihander"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_flamebladedsword"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_lochaberaxe"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_concavehalberd"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_heavymace"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_heavywarhammer"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_lucernhammer"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_morgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_chainmorgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:silver_guisarme"
+    },
+    "material": {
+        "item": "embers:ingot_silver"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_stylet"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_shortsword"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_katzbalger"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_pike"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_ranseur"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_ahlspiess"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_chivalrylance"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_bastardsword"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_estoc"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_claymore"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_zweihander"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_flamebladedsword"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_lochaberaxe"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_concavehalberd"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_heavymace"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_heavywarhammer"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_lucernhammer"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_morgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_chainmorgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:bronze_guisarme"
+    },
+    "material": {
+        "item": "embers:ingot_bronze"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_stylet"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_shortsword"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_katzbalger"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_pike"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_ranseur"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_ahlspiess"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_chivalrylance"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_bastardsword"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_estoc"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_claymore"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_zweihander"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_flamebladedsword"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_lochaberaxe"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_concavehalberd"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_heavymace"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_heavywarhammer"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_lucernhammer"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_morgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_chainmorgenstern"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+{
+    "tool": {
+        "item": "magistuarmory:tin_guisarme"
+    },
+    "material": {
+        "item": "embers:ingot_tin"
+    }
+  },
+  {
+    "tool": {
+        "item": "minecraft:totem_of_undying"
+    },
+    "material": {
+        "ore_dict": "gemEmerald"
+    }
+  }
+]

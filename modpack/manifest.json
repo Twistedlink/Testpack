@@ -13,7 +13,7 @@
   "manifestVersion": 1,
   "version": "1.0.0",
   "author": "Me",
-  "name": "Testpack",
+  "name": "Unofficial AW2",
   "files": [
     {
       "projectID": 59413,
@@ -21,9 +21,7 @@
       "required": true,
       "__meta": {
         "name": "Enchanting Plus",
-        "dependencies": [
-          228525
-        ]
+        "dependencies": [228525]
       }
     },
     {
@@ -81,9 +79,7 @@
       "required": true,
       "__meta": {
         "name": "Fossils and Archeology Revival",
-        "dependencies": [
-          243298
-        ]
+        "dependencies": [243298]
       }
     },
     {
@@ -101,9 +97,7 @@
       "required": true,
       "__meta": {
         "name": "Ancient Warfare 2",
-        "dependencies": [
-          242818
-        ]
+        "dependencies": [242818]
       }
     },
     {
@@ -120,9 +114,7 @@
       "required": true,
       "__meta": {
         "name": "AromaBackup",
-        "dependencies": [
-          223735
-        ]
+        "dependencies": [223735]
       }
     },
     {
@@ -148,9 +140,7 @@
       "required": true,
       "__meta": {
         "name": "Mo' Creatures",
-        "dependencies": [
-          229261
-        ]
+        "dependencies": [229261]
       }
     },
     {
@@ -275,9 +265,7 @@
       "required": true,
       "__meta": {
         "name": "Quark",
-        "dependencies": [
-          250363
-        ]
+        "dependencies": [250363]
       }
     },
     {
@@ -322,6 +310,15 @@
       }
     },
     {
+      "projectID": 247694,
+      "fileID": 2755792,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Items 1.8.+",
+        "dependencies": [242818, 238222]
+      }
+    },
+    {
       "projectID": 248453,
       "fileID": 2785465,
       "required": true,
@@ -353,9 +350,7 @@
       "required": true,
       "__meta": {
         "name": "Mowzie's Mobs",
-        "dependencies": [
-          243298
-        ]
+        "dependencies": [243298]
       }
     },
     {
@@ -396,9 +391,7 @@
       "required": true,
       "__meta": {
         "name": "Quality Tools",
-        "dependencies": [
-          242872
-        ]
+        "dependencies": [242872]
       }
     },
     {
@@ -432,10 +425,7 @@
       "required": true,
       "__meta": {
         "name": "Dungeons2",
-        "dependencies": [
-          272450,
-          272450
-        ]
+        "dependencies": [272450, 272450]
       }
     },
     {
@@ -461,9 +451,7 @@
       "required": true,
       "__meta": {
         "name": "Useful Backpacks",
-        "dependencies": [
-          273744
-        ]
+        "dependencies": [273744]
       }
     },
     {
@@ -480,9 +468,7 @@
       "required": true,
       "__meta": {
         "name": "Spice of Life: Carrot Edition",
-        "dependencies": [
-          224472
-        ]
+        "dependencies": [224472]
       }
     },
     {
@@ -507,9 +493,7 @@
       "required": true,
       "__meta": {
         "name": "Spooky Biomes",
-        "dependencies": [
-          280547
-        ]
+        "dependencies": [280547]
       }
     },
     {
@@ -527,9 +511,7 @@
       "required": true,
       "__meta": {
         "name": "Primitive Mobs",
-        "dependencies": [
-          309136
-        ]
+        "dependencies": [309136]
       }
     },
     {
@@ -571,9 +553,7 @@
       "required": true,
       "__meta": {
         "name": "FastWorkbench",
-        "dependencies": [
-          283644
-        ]
+        "dependencies": [283644]
       }
     },
     {
@@ -582,9 +562,7 @@
       "required": true,
       "__meta": {
         "name": "Treasure2!",
-        "dependencies": [
-          272450
-        ]
+        "dependencies": [272450]
       }
     },
     {
@@ -609,9 +587,7 @@
       "required": true,
       "__meta": {
         "name": "Zoo & Wild Animals Rebuilt : ZAWA",
-        "dependencies": [
-          302957
-        ]
+        "dependencies": [302957]
       }
     },
     {
@@ -669,9 +645,7 @@
       "required": true,
       "__meta": {
         "name": "Eerie Entities",
-        "dependencies": [
-          228525
-        ]
+        "dependencies": [228525]
       }
     },
     {
@@ -713,9 +687,7 @@
       "required": true,
       "__meta": {
         "name": "Future MC",
-        "dependencies": [
-          248453
-        ]
+        "dependencies": [248453]
       }
     },
     {
@@ -724,9 +696,7 @@
       "required": true,
       "__meta": {
         "name": "The Summoner",
-        "dependencies": [
-          309136
-        ]
+        "dependencies": [309136]
       }
     },
     {
@@ -807,9 +777,7 @@
       "required": true,
       "__meta": {
         "name": "Ancient Spellcraft",
-        "dependencies": [
-          265642
-        ]
+        "dependencies": [265642]
       }
     },
     {
@@ -826,9 +794,7 @@
       "required": true,
       "__meta": {
         "name": "Grimoire of Gaia: Redux",
-        "dependencies": [
-          228948
-        ]
+        "dependencies": [228948]
       }
     },
     {
@@ -837,9 +803,7 @@
       "required": true,
       "__meta": {
         "name": "Backported Flora",
-        "dependencies": [
-          248453
-        ]
+        "dependencies": [248453]
       }
     },
     {
@@ -848,9 +812,7 @@
       "required": true,
       "__meta": {
         "name": "Wizardry - Fates",
-        "dependencies": [
-          265642
-        ]
+        "dependencies": [265642]
       }
     },
     {
@@ -859,10 +821,7 @@
       "required": true,
       "__meta": {
         "name": "Wizardry Golems",
-        "dependencies": [
-          265642,
-          233300
-        ]
+        "dependencies": [265642, 233300]
       }
     },
     {
@@ -879,9 +838,7 @@
       "required": true,
       "__meta": {
         "name": "Ice and Fire: RotN Edition",
-        "dependencies": [
-          243298
-        ]
+        "dependencies": [243298]
       }
     },
     {
@@ -906,10 +863,7 @@
       "required": true,
       "__meta": {
         "name": "Mo' Spells (Electroblob's Wizardry)",
-        "dependencies": [
-          250498,
-          265642
-        ]
+        "dependencies": [250498, 265642]
       }
     },
     {
